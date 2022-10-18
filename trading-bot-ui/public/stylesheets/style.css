@@ -1,0 +1,57 @@
+body {
+  padding: 10px;
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.time {
+  margin-bottom: 1rem;
+}
+
+.coins-header {
+  background-color: #161616;
+  height: 2rem;
+  color: #ecdbba;
+  line-height: 2rem;
+}
+
+.coins {
+  margin-top: 0.25rem;
+}
+
+.coin {
+  background-color: #ecdbba;
+  height: 2rem;
+  color: #161616;
+  line-height: 2rem;
+  margin-bottom: 0.125rem;
+}
+
+.coin div {
+  /*pointer-events: none;*/
+}
+
+.positive {
+  background-color: #346751;
+}
+
+.negative {
+  background-color: #c84b31;
+}
+
+.radio {
+  cursor: pointer;
+}
+
+.checked {
+  font-size: 1.5rem;
+  color: #e8e46e;
+}
+
+.btn {
+  height: 1.9rem !important;
+  line-height: 1.9rem !important;
+}
